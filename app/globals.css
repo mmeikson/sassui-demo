@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Remove conflicting styles and let Chakra UI handle the theming */
-body {
-  margin: 0;
-  padding: 0;
-} 

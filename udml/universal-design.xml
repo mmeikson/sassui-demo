@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Variables>
+  <Variable name="Gray/50" type="COLOR" value="#f9fafa" />
+  <Variable name="Black &amp; White/white" type="COLOR" value="#ffffff" />
+  <Variable name="Black Alpha/200" type="COLOR" value="#000000" />
+  <Variable name="Gray/Inactive/bg" type="COLOR" value="" />
+  <Variable name="Gray/Inactive/border" type="COLOR" value="" />
+  <Variable name="Gray/Inactive/icon" type="COLOR" value="" />
+  <Variable name="Gray/400" type="COLOR" value="#abadaf" />
+  <Variable name="Green/500" type="COLOR" value="#0ea371" />
+  <Variable name="Gray/Inactive/text" type="COLOR" value="" />
+  <Variable name="Black &amp; White/black" type="COLOR" value="#0e1012" />
+  <Variable name="Gray/800" type="COLOR" value="#1d2025" />
+  <Variable name="Red/500" type="COLOR" value="#e53e3e" />
+  <Variable name="Gray/200" type="COLOR" value="#e7e7e8" />
+  <Variable name="Gray/900" type="COLOR" value="#171a1d" />
+  <Variable name="Gray/500" type="COLOR" value="#7d7f83" />
+  <Variable name="Purple/500" type="COLOR" value="#8952e0" />
+  <Variable name="Blue/500" type="COLOR" value="#347fdb" />
+  <Variable name="Purple/Inactive/bg" type="COLOR" value="" />
+  <Variable name="Purple/Inactive/border" type="COLOR" value="" />
+  <Variable name="Purple/Inactive/icon" type="COLOR" value="" />
+  <Variable name="Purple/Inactive/text" type="COLOR" value="" />
+  <Variable name="Gray/Active/bg" type="COLOR" value="" />
+  <Variable name="Gray/Active/border" type="COLOR" value="" />
+  <Variable name="Gray/Active/icon" type="COLOR" value="" />
+  <Variable name="Gray/Active/text" type="COLOR" value="" />
+  <Variable name="Black &amp; White/white" type="COLOR" value="#ffffff" />
+  <Variable name="Gray/900" type="COLOR" value="#171a1d" />
+  <Variable name="Red/500" type="COLOR" value="#e53e3e" />
+  <Variable name="Green/500" type="COLOR" value="#0ea371" />
+  <Variable name="Gray/500" type="COLOR" value="#7d7f83" />
+  <Variable name="Gray/300" type="COLOR" value="#d3d4d5" />
+  <Variable name="Gray/100" type="COLOR" value="#f1f1f2" />
+  <Variable name="Gray/600" type="COLOR" value="#52555a" />
+  <Variable name="Blue/300" type="COLOR" value="#7fafe8" />
+  <Variable name="Black Alpha/500" type="COLOR" value="#000000" />
+  <Variable name="Gray/300" type="COLOR" value="#d3d4d5" />
+  <Variable name="Yellow/400" type="COLOR" value="#fbc434" />
+</Variables>
+
+<StyleLibrary>
+  <Style name="text-xs/lineHeight-4/font-normal" type="TEXT" fontFamily="Inter" fontSize="12" fontWeight="Regular" letterSpacing="0%" lineHeight="16 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-xs/lineHeight-4/font-medium" type="TEXT" fontFamily="Inter" fontSize="12" fontWeight="Medium" letterSpacing="0%" lineHeight="16 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-xs/lineHeight-4/font-semibold" type="TEXT" fontFamily="Inter" fontSize="12" fontWeight="Semi Bold" letterSpacing="0%" lineHeight="16 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-sm/lineHeight-5/font-normal" type="TEXT" fontFamily="Inter" fontSize="13" fontWeight="Regular" letterSpacing="0%" lineHeight="20 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-sm/lineHeight-5/font-medium" type="TEXT" fontFamily="Inter" fontSize="13" fontWeight="Medium" letterSpacing="0%" lineHeight="20 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-sm/lineHeight-5/font-semibold" type="TEXT" fontFamily="Inter" fontSize="13" fontWeight="Semi Bold" letterSpacing="0%" lineHeight="20 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-md/lineHeight-6/font-normal" type="TEXT" fontFamily="Inter" fontSize="14" fontWeight="Regular" letterSpacing="0%" lineHeight="24 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-md/lineHeight-6/font-medium" type="TEXT" fontFamily="Inter" fontSize="14" fontWeight="Medium" letterSpacing="0%" lineHeight="24 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-lg/lineHeight-7/font-normal" type="TEXT" fontFamily="Inter" fontSize="16" fontWeight="Regular" letterSpacing="0%" lineHeight="28 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="text-3xl/lineHeight-9/font-semibold" type="TEXT" fontFamily="Inter" fontSize="24" fontWeight="Semi Bold" letterSpacing="0%" lineHeight="36 px" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="component-text/sm" type="TEXT" fontFamily="Inter" fontSize="13" fontWeight="Regular" letterSpacing="0%" lineHeight="150%" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="component-text/xs" type="TEXT" fontFamily="Inter" fontSize="12" fontWeight="Regular" letterSpacing="0%" lineHeight="150%" paragraphSpacing="0" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="sm" type="EFFECT" effectTypes="DROP_SHADOW" />
+  <Style name="black" type="PAINT" color="#0e1012" opacity="1" />
+  <Style name="white" type="PAINT" color="#ffffff" opacity="1" />
+  <Style name="blackAlpha/200" type="PAINT" color="#000000" opacity="0.1" />
+  <Style name="blackAlpha/500" type="PAINT" color="#000000" opacity="0.4" />
+  <Style name="gray/100" type="PAINT" color="#f1f1f2" opacity="1" />
+  <Style name="gray/200" type="PAINT" color="#e7e7e8" opacity="1" />
+  <Style name="gray/400" type="PAINT" color="#abadaf" opacity="1" />
+  <Style name="gray/500" type="PAINT" color="#7d7f83" opacity="1" />
+  <Style name="gray/600" type="PAINT" color="#52555a" opacity="1" />
+  <Style name="gray/800" type="PAINT" color="#1d2025" opacity="1" />
+  <Style name="gray/900" type="PAINT" color="#171a1d" opacity="1" />
+  <Style name="red/500" type="PAINT" color="#e53e3e" opacity="1" />
+  <Style name="yellow/400" type="PAINT" color="#fbc434" opacity="1" />
+  <Style name="green/500" type="PAINT" color="#0ea371" opacity="1" />
+  <Style name="blue/300" type="PAINT" color="#7fafe8" opacity="1" />
+  <Style name="blue/500" type="PAINT" color="#347fdb" opacity="1" />
+  <Style name="purple/500" type="PAINT" color="#8952e0" opacity="1" />
+  <Style name="Inter Medium 20pt" type="PAINT" color="#171a1d" opacity="1" />
+  <Style name="Inter Regular 13pt" type="TEXT" fontFamily="Inter" fontSize="13" fontWeight="Regular" letterSpacing="0%" lineHeight="20 px" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="Inter Regular 13pt" type="PAINT" color="#e53e3e" opacity="1" />
+  <Style name="Inter Medium 13pt" type="PAINT" color="#7d7f83" opacity="1" />
+  <Style name="Inter Regular 12pt" type="TEXT" fontFamily="Inter" fontSize="12" fontWeight="Regular" letterSpacing="0%" lineHeight="150%" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" textCase="ORIGINAL" textDecoration="NONE" />
+  <Style name="Line 1" type="PAINT" color="#d3d4d5" opacity="1" strokeWeight="1" />
+  <Style name="Ellipse 1" type="PAINT" color="#ffffff" opacity="1" strokeWeight="2" />
+</StyleLibrary>
+
+<Components>
+  <COMPONENT name="Sidebar">
+    <VARIANT name="Theme=Light, Condensed=no, Header=yes, Footer=yes, List=defaault">
+      <COLUMN name="Theme=Light, Condensed=no, Header=yes, Footer=yes, List=defaault" width="240" height="604" itemSpacing="10">
+        <INSTANCE name=".Sidebar Header" width="240" height="52" strokeWeight="1" strokeAlign="INSIDE">
+          <ROW name="Content" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <ROW name="Left Side" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="99" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name="Button" width="99" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name=".left-icon" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>
+                  <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">TA</TEXT>
+                  <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />
+                </INSTANCE>
+                <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Saas UI</TEXT>
+              </INSTANCE>
+            </ROW>
+            <ROW name="Right Side" itemSpacing="0" padding="0 0 0 0" layoutGrow="1" layoutAlign="STRETCH" horizAlign="MAX" vertAlign="CENTER" width="121" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name="Button" width="36" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name=".right-icon" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>
+                  <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">2</TEXT>
+                  <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />
+                  <ELLIPSE name="AvatarBadge" width="6" height="6" fillColor="#0ea371" strokeColor="#ffffff" strokeWeight="1" strokeAlign="OUTSIDE" />
+                </INSTANCE>
+              </INSTANCE>
+            </ROW>
+          </ROW>
+        </INSTANCE>        <COLUMN name="Nav" itemSpacing="10" padding="0 10 0 10" layoutGrow="1" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="240" height="480" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".Sidebar Navigation" width="220" height="99" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Nav Item" width="220" height="32" fillColor="#e7e7e8" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="11.7" height="12.8" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Dashboard</TEXT>
+            </INSTANCE>
+            <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="12.8" height="10.5" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Inbox</TEXT>
+            </INSTANCE>
+            <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="12.8" height="11.7" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Contacts</TEXT>
+            </INSTANCE>
+          </INSTANCE>
+          <INSTANCE name="Sidebar Tags" width="220" height="156" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Nav Item" width="220" height="24" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="component-text/xs" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Tags</TEXT>
+              <INSTANCE name="_Collapse" width="12" height="12" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name=".left-icon" width="12" height="12" strokeWeight="1" strokeAlign="INSIDE">
+                  <VECTOR name="Vector" width="7.0" height="4.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />
+                </INSTANCE>
+              </INSTANCE>
+            </INSTANCE>
+            <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#0ea371" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Developer</TEXT>
+              <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">210</TEXT>
+                </ROW>
+              </ROW>
+            </INSTANCE>
+            <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#e53e3e" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Designer</TEXT>
+              <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">83</TEXT>
+                </ROW>
+              </ROW>
+            </INSTANCE>
+            <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#c37b24" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Partner</TEXT>
+              <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12</TEXT>
+                </ROW>
+              </ROW>
+            </INSTANCE>
+            <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#d2a01e" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Prospect</TEXT>
+              <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">23</TEXT>
+                </ROW>
+              </ROW>
+            </INSTANCE>
+          </INSTANCE>
+        </COLUMN>        <INSTANCE name=".Sidebar Footer" width="240" height="52" strokeWeight="1" strokeAlign="INSIDE">
+          <ROW name="Content" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="26" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Button" width="26" height="30" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="8.2" height="7.0" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+            </INSTANCE>
+          </ROW>
+        </INSTANCE>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name=".Sidebar Header">
+    <VARIANT name="Condensed=no">
+      <COLUMN name="Condensed=no" width="381" height="104" itemSpacing="20" padding="10 10 10 10">
+        <ROW name="Content" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="361" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <ROW name="Left Side" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="234" height="40" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Button" width="30" height="30" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".right-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="4.7" height="8.2" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+            </INSTANCE>
+            <ROW name="Logo" itemSpacing="10" padding="4 10 4 10" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="43" height="40" strokeWeight="1" strokeAlign="INSIDE">
+              <FRAME name="saas-ui-glyph 1" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="23" height="23" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="21.6" height="21.6" fillColor="#171a1d" strokeWeight="2" strokeAlign="CENTER" />
+                <VECTOR name="Vector" width="8.7" height="6.9" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE" />
+                <VECTOR name="Vector" width="8.7" height="6.9" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE" />
+              </FRAME>
+            </ROW>
+            <INSTANCE name="avatar" width="36" height="40" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>
+                <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />
+                <ELLIPSE name="AvatarBadge" width="6" height="6" fillColor="#0ea371" strokeColor="#ffffff" strokeWeight="1" strokeAlign="OUTSIDE" />
+              </INSTANCE>
+            </INSTANCE>
+            <INSTANCE name="Button" width="26" height="30" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".right-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="8.2" height="7.0" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+            </INSTANCE>
+            <INSTANCE name="Button" width="99" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>
+                <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">TA</TEXT>
+                <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Saas UI</TEXT>
+            </INSTANCE>
+          </ROW>
+          <ROW name="Right Side" itemSpacing="0" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MAX" vertAlign="CENTER" width="127" height="40" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Button" width="36" height="40" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".right-icon" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>
+                <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">2</TEXT>
+                <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />
+                <ELLIPSE name="AvatarBadge" width="6" height="6" fillColor="#0ea371" strokeColor="#ffffff" strokeWeight="1" strokeAlign="OUTSIDE" />
+              </INSTANCE>
+            </INSTANCE>
+            <ROW name="Logo" itemSpacing="10" padding="4 10 4 10" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="43" height="40" strokeWeight="1" strokeAlign="INSIDE">
+              <FRAME name="saas-ui-glyph 1" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="23" height="23" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="21.6" height="21.6" fillColor="#171a1d" strokeWeight="2" strokeAlign="CENTER" />
+                <VECTOR name="Vector" width="8.7" height="6.9" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE" />
+                <VECTOR name="Vector" width="8.7" height="6.9" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE" />
+              </FRAME>
+            </ROW>
+            <INSTANCE name="Button" width="26" height="30" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".right-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="8.2" height="7.0" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+            </INSTANCE>
+          </ROW>
+        </ROW>        <INSTANCE name="Input" width="361" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <ROW name="Input" itemSpacing="10" padding="4 12 4 12" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="361" height="32" fillColor="#ffffff" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".Text Value" width="313" height="24" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="text-md/lineHeight-6/font-normal" fontFamily="Inter" fontSize="14" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Placeholder</TEXT>
+            </INSTANCE>
+            <ROW name="Right Elements" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="14" height="24" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name="R.Elements" width="14" height="14" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                  <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+                </INSTANCE>
+              </INSTANCE>
+            </ROW>
+          </ROW>
+        </INSTANCE>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="Button">
+    <VARIANT name="size=sm, State=default, colorScheme=gray, Icon=no">
+      <ROW name="size=sm, State=default, colorScheme=gray, Icon=no" width="111" height="32" itemSpacing="8" padding="6 12 6 12">
+        <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>        <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Button</TEXT>        <INSTANCE name=".right-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>      </ROW>
+    </VARIANT>
+    <VARIANT name="size=sm, State=default, colorScheme=gray, Icon=yes">
+      <ROW name="size=sm, State=default, colorScheme=gray, Icon=yes" width="48" height="30" itemSpacing="8" padding="8 6 8 6">
+        <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>        <INSTANCE name=".right-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>      </ROW>
+    </VARIANT>
+    <VARIANT name="size=sm, State=default, colorScheme=purple, Icon=no">
+      <ROW name="size=sm, State=default, colorScheme=purple, Icon=no" width="111" height="32" itemSpacing="8" padding="6 12 6 12">
+        <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>        <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Button</TEXT>        <INSTANCE name=".right-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>      </ROW>
+    </VARIANT>
+    <VARIANT name="size=sm, State=active, colorScheme=gray, Icon=no">
+      <ROW name="size=sm, State=active, colorScheme=gray, Icon=no" width="111" height="32" itemSpacing="8" padding="6 12 6 12">
+        <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>        <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Button</TEXT>        <INSTANCE name=".right-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>      </ROW>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="Avatar">
+    <VARIANT name=".name?=true, .src?=true, size=xs">
+      <ROW name=".name?=true, .src?=true, size=xs" width="24" height="24" itemSpacing="10">
+        <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>        <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">TA</TEXT>        <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />        <ELLIPSE name="AvatarBadge" width="6" height="6" fillColor="#0ea371" strokeColor="#ffffff" strokeWeight="1" strokeAlign="OUTSIDE" />      </ROW>
+    </VARIANT>
+    <VARIANT name=".name?=true, .src?=false, size=xs">
+      <ROW name=".name?=true, .src?=false, size=xs" width="24" height="24" itemSpacing="10">
+        <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">TA</TEXT>        <ELLIPSE name="AvatarBadge" width="6" height="6" fillColor="#0ea371" strokeColor="#ffffff" strokeWeight="1" strokeAlign="OUTSIDE" />      </ROW>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name=".Sidebar Navigation">
+    <VARIANT name="Open=No, Dark?=no, Type=default">
+      <COLUMN name="Open=No, Dark?=no, Type=default" width="226" height="99" itemSpacing="1">
+        <INSTANCE name="Nav Item" width="226" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="11.7" height="12.8" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Dashboard</TEXT>
+        </INSTANCE>        <INSTANCE name="Nav Item" width="226" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="12.8" height="10.5" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Inbox</TEXT>
+        </INSTANCE>        <INSTANCE name="Nav Item" width="226" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="12.8" height="11.7" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Contacts</TEXT>
+        </INSTANCE>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="Nav Item">
+    <VARIANT name="Size=small, Theme=light, State=active, Nested=off, Header=no, Slim=no">
+      <ROW name="Size=small, Theme=light, State=active, Nested=off, Header=no, Slim=no" width="280" height="32" itemSpacing="14" padding="0 16 0 16">
+        <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="11.7" height="12.8" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>        <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Nav Item</TEXT>        <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="62" height="20" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <INSTANCE name="Badge" width="22" height="18" fillColor="#7d7f83" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-xs/lineHeight-4/font-medium" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">10</TEXT>
+          </INSTANCE>
+          <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12</TEXT>
+          </ROW>
+        </ROW>        <INSTANCE name="_Collapse" width="14" height="14" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="4.7" height="8.2" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+        </INSTANCE>      </ROW>
+    </VARIANT>
+    <VARIANT name="Size=small, Theme=light, State=default, Nested=off, Header=no, Slim=no">
+      <ROW name="Size=small, Theme=light, State=default, Nested=off, Header=no, Slim=no" width="280" height="32" itemSpacing="14" padding="0 16 0 16">
+        <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="11.7" height="12.8" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>        <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Nav Item</TEXT>        <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="62" height="20" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="12.8" height="12.8" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <INSTANCE name="Badge" width="22" height="18" fillColor="#7d7f83" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-xs/lineHeight-4/font-medium" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">10</TEXT>
+          </INSTANCE>
+          <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12</TEXT>
+          </ROW>
+        </ROW>        <INSTANCE name="_Collapse" width="14" height="14" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="4.7" height="8.2" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+        </INSTANCE>      </ROW>
+    </VARIANT>
+    <VARIANT name="Size=extra small, Theme=light, State=default, Nested=off, Header=no, Slim=no">
+      <ROW name="Size=extra small, Theme=light, State=default, Nested=off, Header=no, Slim=no" width="280" height="24" itemSpacing="14" padding="0 8 0 8">
+        <INSTANCE name=".left-icon" width="12" height="12" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="10.0" height="11" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>        <TEXT textStyle="component-text/xs" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Nav Item</TEXT>        <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="59" height="18" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="12" height="12" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="11" height="11" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <INSTANCE name="Badge" width="22" height="18" fillColor="#7d7f83" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-xs/lineHeight-4/font-medium" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">10</TEXT>
+          </INSTANCE>
+          <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="13" height="16" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-xs/lineHeight-4/font-normal" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12</TEXT>
+          </ROW>
+        </ROW>        <INSTANCE name="_Collapse" width="12" height="12" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="12" height="12" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="4.0" height="7.0" fillColor="#171a1d" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+        </INSTANCE>      </ROW>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name=".Sidebar Tags">
+    <VARIANT name="Open?=yes, Dark?=no">
+      <COLUMN name="Open?=yes, Dark?=no" width="226" height="156" itemSpacing="1">
+        <INSTANCE name="Nav Item" width="226" height="24" strokeWeight="1" strokeAlign="INSIDE">
+          <TEXT textStyle="component-text/xs" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Tags</TEXT>
+          <INSTANCE name="_Collapse" width="12" height="12" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="12" height="12" strokeWeight="1" strokeAlign="INSIDE">
+              <VECTOR name="Vector" width="7.0" height="4.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />
+            </INSTANCE>
+          </INSTANCE>
+        </INSTANCE>        <INSTANCE name="Nav Item" width="226" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#0ea371" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Developer</TEXT>
+          <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+            <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">210</TEXT>
+            </ROW>
+          </ROW>
+        </INSTANCE>        <INSTANCE name="Nav Item" width="226" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#e53e3e" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Designer</TEXT>
+          <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+            <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">83</TEXT>
+            </ROW>
+          </ROW>
+        </INSTANCE>        <INSTANCE name="Nav Item" width="226" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#c37b24" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Partner</TEXT>
+          <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+            <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12</TEXT>
+            </ROW>
+          </ROW>
+        </INSTANCE>        <INSTANCE name="Nav Item" width="226" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#d2a01e" strokeWeight="1" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Prospect</TEXT>
+          <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+            <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">23</TEXT>
+            </ROW>
+          </ROW>
+        </INSTANCE>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="_Collapse">
+    <VARIANT name="Open=yes">
+      <FRAME name="Open=yes" width="12" height="12" itemSpacing="0">
+        <INSTANCE name=".left-icon" width="12" height="12" strokeWeight="1" strokeAlign="INSIDE">
+          <VECTOR name="Vector" width="7.0" height="4.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />
+        </INSTANCE>      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name=".Sidebar Footer">
+    <VARIANT name="Condensed=no">
+      <COLUMN name="Condensed=no" width="87" height="52" itemSpacing="20" padding="10 10 10 10">
+        <ROW name="Content" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="67" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Button" width="26" height="30" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <VECTOR name="Vector" width="8.2" height="7.0" fillColor="#1d2025" strokeWeight="1" strokeAlign="INSIDE" />
+            </INSTANCE>
+          </INSTANCE>
+          <ROW name="Title" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="41" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Footer</TEXT>
+          </ROW>
+        </ROW>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="_Card-KPI">
+    <VARIANT name="Hover=no, Selected=yes">
+      <COLUMN name="Hover=no, Selected=yes" width="234.8" height="124" itemSpacing="20" padding="20 20 20 20">
+        <COLUMN name="Stat" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="194.8" height="84" strokeWeight="1" strokeAlign="INSIDE">
+          <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">New customers</TEXT>
+          <ROW name="Frame 3" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="92" height="36" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-3xl/lineHeight-9/font-semibold" fontFamily="Inter" fontSize="24" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">130</TEXT>
+            <ROW name="Danger Text" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MAX" vertAlign="CENTER" width="38" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name="lucide-arrow-down" width="15" height="15" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="10.0" height="10.0" fillColor="#e53e3e" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">8%</TEXT>
+            </ROW>
+          </ROW>
+          <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">vs. 34.234 last period</TEXT>
+        </COLUMN>      </COLUMN>
+    </VARIANT>
+    <VARIANT name="Hover=no, Selected=no">
+      <COLUMN name="Hover=no, Selected=no" width="234.8" height="124" itemSpacing="20" padding="20 20 20 20">
+        <COLUMN name="Stat" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="194.8" height="84" strokeWeight="1" strokeAlign="INSIDE">
+          <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">New customers</TEXT>
+          <ROW name="Frame 3" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="194.8" height="36" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-3xl/lineHeight-9/font-semibold" fontFamily="Inter" fontSize="24" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">130</TEXT>
+            <ROW name="Danger Text" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MAX" vertAlign="CENTER" width="38" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name="lucide-arrow-down" width="15" height="15" strokeWeight="1" strokeAlign="INSIDE">
+                <VECTOR name="Vector" width="10.0" height="10.0" fillColor="#e53e3e" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">8%</TEXT>
+            </ROW>
+          </ROW>
+          <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">vs. 34.234 last period</TEXT>
+        </COLUMN>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="Table/Table">
+    <VARIANT name="Size=sm, Variant=simple, Color Scheme=gray, Header=yes">
+      <ROW name="Size=sm, Variant=simple, Color Scheme=gray, Header=yes" width="195" height="32" itemSpacing="14" padding="4 16 4 16">
+        <INSTANCE name="Checkbox" width="16" height="16" strokeWeight="1" strokeAlign="INSIDE">
+          <COLUMN name=".control" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="CENTER" width="16" height="16" strokeColor="#e7e7e8" strokeWeight="2" strokeAlign="INSIDE">
+
+          </COLUMN>
+        </INSTANCE>        <COLUMN name="Title" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="78" height="16" strokeWeight="1" strokeAlign="INSIDE">
+          <TEXT textStyle="text-xs/lineHeight-4/font-semibold" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Table Header</TEXT>
+        </COLUMN>      </ROW>
+    </VARIANT>
+    <VARIANT name="Size=sm, Variant=simple, Color Scheme=gray, Header=no">
+      <ROW name="Size=sm, Variant=simple, Color Scheme=gray, Header=no" width="195" height="32" itemSpacing="14" padding="4 16 4 16">
+        <INSTANCE name=".Table elements" width="16" height="24" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Checkbox" width="16" height="16" strokeWeight="1" strokeAlign="INSIDE">
+            <COLUMN name=".control" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="CENTER" width="16" height="16" strokeColor="#e7e7e8" strokeWeight="2" strokeAlign="INSIDE">
+
+            </COLUMN>
+          </INSTANCE>
+        </INSTANCE>        <INSTANCE name=".Title" width="65" height="24" strokeWeight="1" strokeAlign="INSIDE">
+          <TEXT textStyle="text-md/lineHeight-6/font-normal" fontFamily="Inter" fontSize="14" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Table Cell</TEXT>
+        </INSTANCE>      </ROW>
+    </VARIANT>
+    <VARIANT name="Size=sm, Variant=unstyled, Color Scheme=gray, Header=no">
+      <ROW name="Size=sm, Variant=unstyled, Color Scheme=gray, Header=no" width="195" height="32" itemSpacing="14" padding="4 16 4 16">
+        <INSTANCE name=".Table elements" width="16" height="24" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Checkbox" width="16" height="16" strokeWeight="1" strokeAlign="INSIDE">
+            <COLUMN name=".control" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="CENTER" width="16" height="16" strokeColor="#e7e7e8" strokeWeight="2" strokeAlign="INSIDE">
+
+            </COLUMN>
+          </INSTANCE>
+        </INSTANCE>        <INSTANCE name=".Title" width="65" height="24" strokeWeight="1" strokeAlign="INSIDE">
+          <TEXT textStyle="text-md/lineHeight-6/font-normal" fontFamily="Inter" fontSize="14" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Table Cell</TEXT>
+        </INSTANCE>      </ROW>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name=".Title">
+    <VARIANT name="Type=default">
+      <COLUMN name="Type=default" width="65" height="24" itemSpacing="0">
+        <TEXT textStyle="text-md/lineHeight-6/font-normal" fontFamily="Inter" fontSize="14" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Table Cell</TEXT>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="Progress">
+    <VARIANT name="Size=xs, ColorScheme=purple">
+      <COLUMN name="Size=xs, ColorScheme=purple" width="320" height="4" itemSpacing="0">
+        <ROW name="inner control" itemSpacing="181" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="181.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+          <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+          <INSTANCE name=".stripe" width="356" height="4" strokeWeight="1" strokeAlign="INSIDE">
+            <LINE name="Line 1" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 2" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 3" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 4" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 5" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 6" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 7" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 8" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 14" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 15" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 16" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 17" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 18" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 19" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 20" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 21" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 22" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 23" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 24" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 9" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 10" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 11" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 12" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 13" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+            <LINE name="Line 25" width="58.1" height="0" strokeColor="#ffffff" strokeWeight="7" strokeAlign="INSIDE" />
+          </INSTANCE>
+          <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+        </ROW>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="Timeline">
+    <VARIANT name="Type=avatar, Title=text-link, Small=no, Card=no">
+      <COLUMN name="Type=avatar, Title=text-link, Small=no, Card=no" width="163" height="44" itemSpacing="0">
+        <ROW name="Avatar&amp;title" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="163" height="30" strokeWeight="1" strokeAlign="INSIDE">
+          <ROW name="Avatar" itemSpacing="0" padding="3 0 3 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="24" height="30" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Avatar" width="24" height="24" fillColor="#7fafe8" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">TA</TEXT>
+              <ELLIPSE name="AvatarBadge" width="6" height="6" fillColor="#0ea371" strokeColor="#ffffff" strokeWeight="1" strokeAlign="OUTSIDE" />
+            </INSTANCE>
+          </ROW>
+          <ROW name="Title" itemSpacing="3" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="129" height="18" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".Timeline Link" width="78" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Renata Alink</TEXT>
+            </INSTANCE>
+            <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Subtext</TEXT>
+          </ROW>
+        </ROW>        <ROW name="Line" itemSpacing="10" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="MIN" width="24" height="14" strokeWeight="1" strokeAlign="INSIDE">
+          <FRAME name="line" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="1" height="14" fillColor="#d3d4d5" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+        </ROW>      </COLUMN>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name=".Timeline Link">
+    <VARIANT name="State=default, Small=no">
+      <ROW name="State=default, Small=no" width="78" height="20" itemSpacing="10">
+        <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Renata Alink</TEXT>      </ROW>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-home" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-home" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="20.0" height="22" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-inbox" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-inbox" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="22.0" height="18" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-users" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-users" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="22.0" height="20.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-chevron-down" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-chevron-down" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="14.0" height="8.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="material-circle_filled" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="material-circle_filled" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="20" height="20" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-chevrons-left" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-chevrons-left" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="14.0" height="12.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-calendar" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-calendar" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="20" height="22" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-arrow-up" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-arrow-up" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="16.0" height="16.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+  <COMPONENT name="lucide-arrow-down" type="COMPONENT">
+    <VARIANT name="default">
+      <FRAME name="lucide-arrow-down" width="24" height="24" itemSpacing="0">
+      <VECTOR name="Vector" width="16.0" height="16.0" fillColor="#000000" strokeWeight="1" strokeAlign="INSIDE" />      </FRAME>
+    </VARIANT>
+  </COMPONENT>
+</Components>
+
+<SCREEN>
+  <ROW name="Dashboard " itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="1536" height="1001" fillColor="#f9fafa" strokeWeight="1" strokeAlign="INSIDE">
+    <INSTANCE name="Sidebar" width="240" height="1001" fillColor="#ffffff" strokeColor="#000000" strokeOpacity="0.1" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+      <INSTANCE name=".Sidebar Header" width="240" height="52" strokeWeight="1" strokeAlign="INSIDE">
+        <ROW name="Content" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <ROW name="Left Side" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="99" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Button" width="99" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>
+                <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">TA</TEXT>
+                <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />
+              </INSTANCE>
+              <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Saas UI</TEXT>
+            </INSTANCE>
+          </ROW>
+          <ROW name="Right Side" itemSpacing="0" padding="0 0 0 0" layoutGrow="1" layoutAlign="STRETCH" horizAlign="MAX" vertAlign="CENTER" width="121" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="Button" width="36" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".right-icon" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT fontFamily="Inter" fontSize="1" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE"> </TEXT>
+                <TEXT fontFamily="Inter" fontSize="9" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">2</TEXT>
+                <RECTANGLE name=".image" width="24" height="24" strokeWeight="1" strokeAlign="INSIDE" />
+                <ELLIPSE name="AvatarBadge" width="6" height="6" fillColor="#0ea371" strokeColor="#ffffff" strokeWeight="1" strokeAlign="OUTSIDE" />
+              </INSTANCE>
+            </INSTANCE>
+          </ROW>
+        </ROW>
+      </INSTANCE>
+      <COLUMN name="Nav" itemSpacing="10" padding="0 10 0 10" layoutGrow="1" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="240" height="877" strokeWeight="1" strokeAlign="INSIDE">
+        <INSTANCE name=".Sidebar Navigation" width="220" height="99" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Nav Item" width="220" height="32" fillColor="#e7e7e8" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <SVG src="assets/vector_Vector_I8151:48.svg" />
+            </INSTANCE>
+            <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Dashboard</TEXT>
+          </INSTANCE>
+          <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <SVG src="assets/vector_Vector_I8151:48.svg" />
+            </INSTANCE>
+            <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Inbox</TEXT>
+          </INSTANCE>
+          <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <SVG src="assets/vector_Vector_I8151:48.svg" />
+            </INSTANCE>
+            <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Contacts</TEXT>
+          </INSTANCE>
+        </INSTANCE>
+        <INSTANCE name="Sidebar Tags" width="220" height="156" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Nav Item" width="220" height="24" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="component-text/xs" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Tags</TEXT>
+            <INSTANCE name="_Collapse" width="12" height="12" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name=".left-icon" width="12" height="12" strokeWeight="1" strokeAlign="INSIDE">
+                <SVG src="assets/vector_Vector_I8151:48.svg" />
+              </INSTANCE>
+            </INSTANCE>
+          </INSTANCE>
+          <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE" />
+            </INSTANCE>
+            <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Developer</TEXT>
+            <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">210</TEXT>
+              </ROW>
+            </ROW>
+          </INSTANCE>
+          <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#0ea371" strokeWeight="1" strokeAlign="INSIDE" />
+            </INSTANCE>
+            <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Designer</TEXT>
+            <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">83</TEXT>
+              </ROW>
+            </ROW>
+          </INSTANCE>
+          <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#347fdb" strokeWeight="1" strokeAlign="INSIDE" />
+            </INSTANCE>
+            <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Partner</TEXT>
+            <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="14" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12</TEXT>
+              </ROW>
+            </ROW>
+          </INSTANCE>
+          <INSTANCE name="Nav Item" width="220" height="32" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <VECTOR name="Vector" width="11.7" height="11.7" fillColor="#7d7f83" strokeWeight="1" strokeAlign="INSIDE" />
+            </INSTANCE>
+            <TEXT textStyle="component-text/sm" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Prospect</TEXT>
+            <ROW name="Right Side" itemSpacing="6" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+              <ROW name="subtext" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">23</TEXT>
+              </ROW>
+            </ROW>
+          </INSTANCE>
+        </INSTANCE>
+      </COLUMN>
+      <INSTANCE name=".Sidebar Footer" width="240" height="52" strokeWeight="1" strokeAlign="INSIDE">
+        <ROW name="Content" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="26" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Button" width="26" height="30" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+              <SVG src="assets/vector_Vector_I8151:48.svg" />
+            </INSTANCE>
+          </INSTANCE>
+        </ROW>
+      </INSTANCE>
+    </INSTANCE>
+    <COLUMN name="Container" itemSpacing="0" padding="0 0 0 0" layoutGrow="1" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="1296" height="1001" strokeWeight="1" strokeAlign="INSIDE">
+      <ROW name="Navbar" itemSpacing="20" padding="10 16 10 16" layoutGrow="0" layoutAlign="STRETCH" horizAlign="SPACE_BETWEEN" vertAlign="CENTER" width="1296" height="52" fillColor="#ffffff" strokeColor="#000000" strokeOpacity="0.1" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+        <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Dashboard</TEXT>
+        <ROW name="Right" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="73" height="32" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Button" width="73" height="32" fillColor="#8952e0" strokeColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Buy Pro</TEXT>
+          </INSTANCE>
+        </ROW>
+      </ROW>
+      <ROW name="Navbar Filters" itemSpacing="12" padding="10 16 10 16" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="1296" height="52" fillColor="#ffffff" strokeColor="#000000" strokeOpacity="0.1" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+        <ROW name="Button Group" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="339" height="32" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name="Button" width="57" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">1 day</TEXT>
+          </INSTANCE>
+          <LINE name="Divider" width="32" height="0" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="CENTER" />
+          <INSTANCE name="Button" width="66" height="32" fillColor="#e7e7e8" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">3 days</TEXT>
+          </INSTANCE>
+          <LINE name="Divider" width="32" height="0" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="CENTER" />
+          <INSTANCE name="Button" width="67" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">1 week</TEXT>
+          </INSTANCE>
+          <LINE name="Divider" width="32" height="0" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="CENTER" />
+          <INSTANCE name="Button" width="75" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">1 month</TEXT>
+          </INSTANCE>
+          <LINE name="Divider" width="32" height="0" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="CENTER" />
+          <INSTANCE name="Button" width="74" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#ffffff" strokeOpacity="0" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Custom</TEXT>
+          </INSTANCE>
+        </ROW>
+        <INSTANCE name="Button" width="197" height="32" fillColor="#ffffff" fillOpacity="0" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="INSIDE">
+          <INSTANCE name=".left-icon" width="14" height="14" strokeWeight="1" strokeAlign="INSIDE">
+            <SVG src="assets/vector_Vector_I8162:49.svg" />
+          </INSTANCE>
+          <TEXT textStyle="text-sm/lineHeight-5/font-semibold" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12/20/2023 - 1/19/2024</TEXT>
+        </INSTANCE>
+      </ROW>
+      <COLUMN name="Sub-Container" itemSpacing="28" padding="24 10 24 10" layoutGrow="1" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="1296" height="897" strokeWeight="1" strokeAlign="INSIDE">
+        <COLUMN name="Card Graph" itemSpacing="10" padding="0 0 32 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="992" height="481" fillColor="#ffffff" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="OUTSIDE">
+          <ROW name="Cards KPI" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="992" height="124" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+            <INSTANCE name="_Card-KPI" width="248" height="124" fillColor="#ffffff" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+              <COLUMN name="Stat" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="208" height="84" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Revenue</TEXT>
+                <ROW name="Frame 3" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="148" height="36" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-3xl/lineHeight-9/font-semibold" fontFamily="Inter" fontSize="24" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€39,623</TEXT>
+                  <ROW name="Success Text" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MAX" vertAlign="CENTER" width="38" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="lucide-arrow-up" width="15" height="15" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">8%</TEXT>
+                  </ROW>
+                </ROW>
+                <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">vs. €34.234 last period</TEXT>
+              </COLUMN>
+            </INSTANCE>
+            <INSTANCE name="_Card-KPI" width="248" height="124" strokeColor="#e7e7e8" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+              <COLUMN name="Stat" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="208" height="84" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">New customers</TEXT>
+                <ROW name="Frame 3" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="208" height="36" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-3xl/lineHeight-9/font-semibold" fontFamily="Inter" fontSize="24" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">130</TEXT>
+                  <ROW name="Danger Text" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MAX" vertAlign="CENTER" width="38" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="lucide-arrow-down" width="15" height="15" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">8%</TEXT>
+                  </ROW>
+                </ROW>
+                <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">vs. 34.234 last period</TEXT>
+              </COLUMN>
+            </INSTANCE>
+            <INSTANCE name="_Card-KPI" width="248" height="124" strokeColor="#e7e7e8" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+              <COLUMN name="Stat" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="208" height="84" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Churned customers</TEXT>
+                <ROW name="Frame 3" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="208" height="36" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-3xl/lineHeight-9/font-semibold" fontFamily="Inter" fontSize="24" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">7</TEXT>
+                  <ROW name="Danger Text" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MAX" vertAlign="CENTER" width="38" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="lucide-arrow-down" width="15" height="15" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">8%</TEXT>
+                  </ROW>
+                </ROW>
+                <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">vs. 3 last period</TEXT>
+              </COLUMN>
+            </INSTANCE>
+            <INSTANCE name="_Card-KPI" width="248" height="124" strokeColor="#e7e7e8" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+              <COLUMN name="Stat" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="208" height="84" strokeWeight="1" strokeAlign="INSIDE">
+                <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Active customers</TEXT>
+                <ROW name="Frame 3" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="CENTER" width="208" height="36" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="text-3xl/lineHeight-9/font-semibold" fontFamily="Inter" fontSize="24" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">1199</TEXT>
+                  <ROW name="Success Text" itemSpacing="4" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MAX" vertAlign="CENTER" width="38" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="lucide-arrow-up" width="15" height="15" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">8%</TEXT>
+                  </ROW>
+                </ROW>
+                <TEXT textStyle="Inter Regular 13pt" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">vs. 1199 last period</TEXT>
+              </COLUMN>
+            </INSTANCE>
+          </ROW>
+          <ROW name="Graph" itemSpacing="10" padding="32 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="894" height="315" strokeWeight="1" strokeAlign="INSIDE">
+            <COLUMN name="Left" itemSpacing="44" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="SPACE_BETWEEN" vertAlign="MAX" width="42" height="258" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€3,600</TEXT>
+              <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€2,900</TEXT>
+              <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€1,900</TEXT>
+              <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€900</TEXT>
+              <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">0€</TEXT>
+            </COLUMN>
+            <FRAME name="graphs" itemSpacing="0" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="842" height="283" strokeWeight="1" strokeAlign="INSIDE">
+              <FRAME name="legend" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="1080" height="283" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="Frame 1" itemSpacing="42" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="SPACE_BETWEEN" vertAlign="MIN" width="1034" height="18" strokeWeight="1" strokeAlign="INSIDE">
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">7/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">8/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">9/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">10/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">11/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">12/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">13/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">14/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">15/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">15/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">16/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">17/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">18/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">19/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">20/8</TEXT>
+                  <TEXT textStyle="Inter Regular 12pt" fontFamily="Inter" fontSize="12" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">21/8</TEXT>
+                </ROW>
+                <LINE name="Line 1" width="1034" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 2" width="1034" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 3" width="1034" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 4" width="1034" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 5" width="1034" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 37" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 38" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 39" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 40" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 41" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 42" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 43" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 44" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 45" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 46" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 47" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 48" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 49" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+                <LINE name="Line 50" width="5" height="0" strokeColor="#d3d4d5" strokeWeight="1" strokeAlign="CENTER" />
+              </FRAME>
+              <GROUP name="Graph purple" width="1034" height="189">
+                <RECTANGLE name="mask" width="1034" height="189" fillColor="#d9d9d9" strokeWeight="1" strokeAlign="INSIDE" />
+                <VECTOR name="Vector 1" width="1004" height="203" strokeColor="#8952e0" strokeWeight="2" strokeAlign="CENTER" />
+              </GROUP>
+            </FRAME>
+          </ROW>
+        </COLUMN>
+        <ROW name="Cards" itemSpacing="28" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="MIN" width="992" height="332" strokeWeight="1" strokeAlign="INSIDE">
+          <COLUMN name="Card Top Countries" itemSpacing="0" padding="0 0 14 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="482" height="332" fillColor="#ffffff" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="INSIDE">
+            <ROW name="Card Header" itemSpacing="10" padding="12 14 12 14" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="44" strokeWeight="1" strokeAlign="INSIDE">
+              <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Top countries</TEXT>
+            </ROW>
+            <COLUMN name="table-simple" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="256" fillColor="#ffffff" strokeWeight="1" strokeAlign="INSIDE">
+              <ROW name="T.Header" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <COLUMN name="Title" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="48" height="16" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-xs/lineHeight-4/font-semibold" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Country</TEXT>
+                  </COLUMN>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <COLUMN name="Title" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="32" height="16" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-xs/lineHeight-4/font-semibold" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Sales</TEXT>
+                  </COLUMN>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <COLUMN name="Title" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="29" height="16" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-xs/lineHeight-4/font-semibold" fontFamily="Inter" fontSize="12" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Total</TEXT>
+                  </COLUMN>
+                </INSTANCE>
+              </ROW>
+              <ROW name="Row 1" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="18" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">US</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">30</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="50" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€10,247</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Progress" width="128" height="4" fillColor="#f1f1f2" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="inner control" itemSpacing="90" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="90.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                  </ROW>
+                </INSTANCE>
+              </ROW>
+              <ROW name="Row 2" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="30" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">India</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">210</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="53" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€39,623</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Progress" width="128" height="4" fillColor="#f1f1f2" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="inner control" itemSpacing="110" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="110.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                  </ROW>
+                </INSTANCE>
+              </ROW>
+              <ROW name="Row 3" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="34" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Brazil</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="21" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">191</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="49" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="RIGHT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€12,413</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Progress" width="128" height="4" fillColor="#f1f1f2" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="inner control" itemSpacing="90" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="90.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                  </ROW>
+                </INSTANCE>
+              </ROW>
+              <ROW name="Row 4" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="76" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Netherlands</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="23" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">134</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="51" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€19,996</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Progress" width="128" height="4" fillColor="#f1f1f2" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="inner control" itemSpacing="77" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="77.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                  </ROW>
+                </INSTANCE>
+              </ROW>
+              <ROW name="Row 5" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="18" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">US</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">30</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="50" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€10,247</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Progress" width="128" height="4" fillColor="#f1f1f2" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="inner control" itemSpacing="45" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="45.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                  </ROW>
+                </INSTANCE>
+              </ROW>
+              <ROW name="Row 6" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="99" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">United Kingdom</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="16" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">47</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeColor="#f1f1f2" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="34" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€406</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Progress" width="128" height="4" fillColor="#f1f1f2" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="inner control" itemSpacing="36" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="36.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                  </ROW>
+                </INSTANCE>
+              </ROW>
+              <ROW name="Row 7" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="482" height="32" strokeWeight="1" strokeAlign="INSIDE">
+                <INSTANCE name="Table/Table" width="195" height="32" fillColor="#ffffff" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="43" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">France</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="201" height="32" fillColor="#ffffff" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="17" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">43</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Table/Table" width="86" height="32" fillColor="#ffffff" strokeWeight="Symbol(figma.mixed)" strokeAlign="INSIDE">
+                  <INSTANCE name=".Title" width="31" height="20" strokeWeight="1" strokeAlign="INSIDE">
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">€919</TEXT>
+                  </INSTANCE>
+                </INSTANCE>
+                <INSTANCE name="Progress" width="128" height="4" fillColor="#f1f1f2" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="inner control" itemSpacing="20" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="20.0" height="4" fillColor="#8952e0" strokeWeight="1" strokeAlign="INSIDE">
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                    <FRAME name="empty" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="0.0" height="4" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                  </ROW>
+                </INSTANCE>
+              </ROW>
+            </COLUMN>
+          </COLUMN>
+          <COLUMN name="Card Activity" itemSpacing="20" padding="14 20 14 20" layoutGrow="1" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="482" height="332" fillColor="#ffffff" strokeColor="#e7e7e8" strokeWeight="1" strokeAlign="INSIDE">
+            <TEXT textStyle="text-sm/lineHeight-5/font-medium" fontFamily="Inter" fontSize="13" textAlignHorizontal="LEFT" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">Activity</TEXT>
+            <COLUMN name="Timeline" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="442" height="264" strokeWeight="1" strokeAlign="INSIDE">
+              <INSTANCE name="Timeline" width="290" height="44" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="Avatar&amp;title" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="290" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="Avatar" itemSpacing="0" padding="3 0 3 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="24" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="Avatar" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                  </ROW>
+                  <ROW name="Title" itemSpacing="3" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="256" height="18" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name=".Timeline Link" width="126" height="20" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">signed up · Just now</TEXT>
+                  </ROW>
+                </ROW>
+                <ROW name="Line" itemSpacing="10" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="MIN" width="24" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                  <FRAME name="line" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="1" height="14" fillColor="#d3d4d5" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                </ROW>
+              </INSTANCE>
+              <INSTANCE name="Timeline" width="265" height="44" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="Avatar&amp;title" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="265" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="Avatar" itemSpacing="0" padding="3 0 3 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="24" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="Avatar" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                  </ROW>
+                  <ROW name="Title" itemSpacing="3" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="231" height="18" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name=".Timeline Link" width="101" height="20" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">signed up · Just now</TEXT>
+                  </ROW>
+                </ROW>
+                <ROW name="Line" itemSpacing="10" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="MIN" width="24" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                  <FRAME name="line" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="1" height="14" fillColor="#d3d4d5" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                </ROW>
+              </INSTANCE>
+              <INSTANCE name="Timeline" width="308" height="44" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="Avatar&amp;title" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="308" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="Avatar" itemSpacing="0" padding="3 0 3 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="24" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="Avatar" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                  </ROW>
+                  <ROW name="Title" itemSpacing="3" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="274" height="18" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name=".Timeline Link" width="99" height="20" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">upgraded to Pro · yesterday</TEXT>
+                  </ROW>
+                </ROW>
+                <ROW name="Line" itemSpacing="10" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="MIN" width="24" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                  <FRAME name="line" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="1" height="14" fillColor="#d3d4d5" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                </ROW>
+              </INSTANCE>
+              <INSTANCE name="Timeline" width="314" height="44" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="Avatar&amp;title" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="314" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="Avatar" itemSpacing="0" padding="3 0 3 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="24" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="Avatar" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                  </ROW>
+                  <ROW name="Title" itemSpacing="3" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="280" height="18" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name=".Timeline Link" width="99" height="20" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">upgraded to Pro · 2 days ago</TEXT>
+                  </ROW>
+                </ROW>
+                <ROW name="Line" itemSpacing="10" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="MIN" width="24" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                  <FRAME name="line" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="1" height="14" fillColor="#d3d4d5" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                </ROW>
+              </INSTANCE>
+              <INSTANCE name="Timeline" width="294" height="44" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="Avatar&amp;title" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="294" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="Avatar" itemSpacing="0" padding="3 0 3 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="24" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="Avatar" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                  </ROW>
+                  <ROW name="Title" itemSpacing="3" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="260" height="18" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name=".Timeline Link" width="78" height="20" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">upgraded to Pro · 3 days ago</TEXT>
+                  </ROW>
+                </ROW>
+                <ROW name="Line" itemSpacing="10" padding="0 0 0 0" layoutGrow="1" layoutAlign="INHERIT" horizAlign="CENTER" vertAlign="MIN" width="24" height="14" strokeWeight="1" strokeAlign="INSIDE">
+                  <FRAME name="line" itemSpacing="0" padding="0 0 0 0" layoutGrow="0" layoutAlign="STRETCH" horizAlign="MIN" vertAlign="MIN" width="1" height="14" fillColor="#d3d4d5" strokeWeight="1" strokeAlign="INSIDE"></FRAME>
+                </ROW>
+              </INSTANCE>
+              <INSTANCE name="Timeline" width="254" height="44" strokeWeight="1" strokeAlign="INSIDE">
+                <ROW name="Avatar&amp;title" itemSpacing="10" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="254" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                  <ROW name="Avatar" itemSpacing="0" padding="3 0 3 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="MIN" width="24" height="30" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name="Avatar" width="24" height="24" fillColor="#abadaf" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                  </ROW>
+                  <ROW name="Title" itemSpacing="3" padding="0 0 0 0" layoutGrow="0" layoutAlign="INHERIT" horizAlign="MIN" vertAlign="CENTER" width="220" height="18" strokeWeight="1" strokeAlign="INSIDE">
+                    <INSTANCE name=".Timeline Link" width="78" height="20" strokeWeight="1" strokeAlign="INSIDE">
+
+                    </INSTANCE>
+                    <TEXT textStyle="text-sm/lineHeight-5/font-normal" fontFamily="Inter" fontSize="13" textAlignHorizontal="CENTER" textAlignVertical="CENTER" letterSpacing="[object Object]" lineHeight="[object Object]" textCase="ORIGINAL" textDecoration="NONE">signed up · 3 days ago</TEXT>
+                  </ROW>
+                </ROW>
+              </INSTANCE>
+            </COLUMN>
+          </COLUMN>
+        </ROW>
+      </COLUMN>
+    </COLUMN>
+  </ROW>
+</SCREEN>
