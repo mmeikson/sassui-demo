@@ -16,6 +16,7 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@internationalized/date": "^3.8.0",
+    "@react-icons/all-files": "^4.1.0",
     "@saas-ui/charts": "^0.15.0",
     "@saas-ui/date-picker": "^0.15.4",
     "@saas-ui/forms": "^2.11.0",
